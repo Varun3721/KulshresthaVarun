@@ -29,7 +29,7 @@ real-world products.
 - Developing an **Automated Data Archival Solution**, optimizing data lifecycle management and reducing active storage costs by **~35%**
 - Built a **Data Quality validation POC** using **Great Expectations**
 - Developed a **Dynamic Visualization platform** leveraging **LLMs** to convert natural-language prompts into structured queries and interactive charts, reducing turnaround time by **~60%**
-- Built a **Test Data Generation backend** using **Mimesis** for files and relational datasets
+- Built a **Test Data Generation backend** using **Mimesis** for files and relational Tables data.
 
 ---
 
@@ -41,14 +41,14 @@ real-world products.
 - Automated **ELK cluster provisioning** using **Docker Compose**
 - Built **interactive Kibana dashboards**, reducing **MTTR by ~50%**
 - Developed **ETL pipelines** using **Logstash and Elasticsearch**
-- Deployed observability services on **AWS EC2**
+- Deployed observability services on **AWS**
 
 ---
 
 ## 🚀 Projects
 
 - **LLM-based RAG Application** using GPT-3.5 and Milvus Vector DB
-- **Insurance Premium Prediction** (Regression)
+- **Insurance Premium Prediction** (Multiple Regression)
 - **Loan Approval Risk Modeling** (Classification)
 
 ---
